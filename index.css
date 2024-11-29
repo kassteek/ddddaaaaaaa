@@ -1,0 +1,136 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 700px;
+    display: flex;
+    background-color: rgb(61, 61, 61);
+}
+.logo{
+    width: 50px;
+    padding-top: 0.4%;
+    padding-left:0.5%;
+    position: absolute;
+}
+.Avrora{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1.2%;
+    padding-left: 4%;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+.qq{
+    font-size: 30PX;
+    margin-left: 5%;
+    margin-top: 0.5%;
+        display: flex;
+        justify-content: end;
+        }
+        ul {
+        list-style: none;
+        display: flex;
+        color: rgb(255, 255, 255);
+        font-family: Helvetica;
+        }
+        li {
+        margin: 0 10px; 
+        }
+        .KNIGA{transform: translate(500px,-580px);
+            width: 1000PX;
+        }
+        .wwww{background-color: #ff0000;
+            padding: 5px 12px;
+            text-transform: uppercase;
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 27px;
+            letter-spacing: 12px;
+            transform: translate(10px,350px);
+        }
+        .real{
+            font-size: 60px;
+            transform: translate(-325px,50px);
+            color: aliceblue;
+        }
+
+        .SALE{
+            font-size: 180px;
+            transform: translate(-500px,0px);
+            color: aliceblue;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        .oneph{transform: translate(50px, -500px);
+            width: 220px;
+            
+        }
+        .det{
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            transform: translate(860px, -550px);
+            font-size: 32px;
+        }
+        .content { 
+          transform: translate(0px,-530px);
+            padding: 20px; 
+          } 
+           
+          .category { 
+            margin-bottom: 30px; 
+          } 
+           
+          .category h2 { 
+            font-size: 24px; 
+            margin-bottom: 10px; 
+          } 
+           
+          .book-list { 
+            display: flex; 
+            flex-wrap: wrap; 
+            gap: 20px; 
+            justify-content: space-between; 
+          } 
+           
+          .book { 
+            border-radius: 5px; 
+            padding: 10px; 
+            text-align: center; 
+            width: 150px; 
+          } 
+           
+          .book img { 
+            max-width: 100%; 
+            height: auto; 
+          } 
+           
+          .price { 
+            color: green; 
+            font-weight: bold; 
+          } 
+          .gg { 
+            padding-left: 400px; 
+            font-size: 100px; 
+          } 
+          .sale-title { 
+            padding-left: 400px; 
+            font-family: arial; 
+            font-weight: lighter; 
+          }
+          .footer{
+            transform: translate(0px,-550px);
+            padding-bottom: 260px;
+            height: 200px;
+            background-color: black;
+          }
+          .qq a{
+            color: #fff;
+          }
+           .chas{
+            margin-left: 200px;
+            margin-top: 20px;
+           }
+           .lor{
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            margin-left: 150px;
+            color: #fff;
+            size: 35px;
+           }
